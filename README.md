@@ -141,13 +141,16 @@ Total estimated time spent on this project: **~7.5 hours**.
 ## 9. Screenshots
 
 ### Home Page
-![Home Page Placeholder]("C:\Users\prana\OneDrive\Pictures\Screenshots\Screenshot 2026-07-29 120713.png")
+<img width="1338" height="621" alt="Screenshot 2026-07-29 120713" src="https://github.com/user-attachments/assets/e0c7be95-68fc-4d31-90af-5801cdf70e19" />
+
 
 ### Flashcards Page
-![Flashcards Page Placeholder]("C:\Users\prana\OneDrive\Pictures\Screenshots\Screenshot 2026-07-29 120916.png")
+<img width="862" height="544" alt="Screenshot 2026-07-29 120916" src="https://github.com/user-attachments/assets/0a65f2ac-735a-49ce-b52a-eea5e4e01914" />
+
 
 ### Quiz Page
-![Quiz Page Placeholder]("C:\Users\prana\OneDrive\Pictures\Screenshots\Screenshot 2026-07-29 121011.png")
+<img width="627" height="548" alt="Screenshot 2026-07-29 121011" src="https://github.com/user-attachments/assets/dc1a0460-e0a6-41f6-8d0d-2827091182f3" />
+
 
 
 ---
