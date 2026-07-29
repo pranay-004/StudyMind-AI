@@ -141,16 +141,14 @@ Total estimated time spent on this project: **~7.5 hours**.
 ## 9. Screenshots
 
 ### Home Page
-![Home Page Placeholder](./docs/screenshots/home.png)
+![Home Page Placeholder]("C:\Users\prana\OneDrive\Pictures\Screenshots\Screenshot 2026-07-29 120713.png")
 
 ### Flashcards Page
-![Flashcards Page Placeholder](./docs/screenshots/flashcards.png)
+![Flashcards Page Placeholder]("C:\Users\prana\OneDrive\Pictures\Screenshots\Screenshot 2026-07-29 120916.png")
 
 ### Quiz Page
-![Quiz Page Placeholder](./docs/screenshots/quiz.png)
+![Quiz Page Placeholder]("C:\Users\prana\OneDrive\Pictures\Screenshots\Screenshot 2026-07-29 121011.png")
 
-### Error State
-![Error State Placeholder](./docs/screenshots/error.png)
 
 ---
 
